@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
 #fp-nav ul li a.active span,
 .fp-slidesNav ul li a.active span {
     background: #fff;
@@ -213,6 +219,8 @@
 	left: 5%;
 	top: 5%;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
+
 	animation:ly-stxt01_move 15s;
 	animation-delay:3s;
 	-webkit-animation:ly-stxt01_move 15s;
@@ -242,6 +250,8 @@
 	top: 5%;
 	margin-top:-71px;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
+
 	animation:ly-stxt02_move 15s;
 	animation-delay:3s;
 	-webkit-animation:ly-stxt02_move 15s;
@@ -270,6 +280,7 @@
 	left: 5%;
 	top: 5%;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
 	margin-top:-71px;
 	animation:ly-stxt03_move 15s;
 	animation-delay:3s;
@@ -299,6 +310,7 @@
 	left: 5%;
 	top: 5%;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
 	margin-top:-71px;
 	animation:ly-stxt04_move 15s;
 	animation-delay:3s;
@@ -327,7 +339,7 @@
 	position: relative;
 	left: 5%;
 	top: 5%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	margin-top:-71px;
 	animation:ly-stxt05_move 15s;
 	animation-delay:3s;
@@ -357,6 +369,7 @@
 	right: 5%;
 	top: 5%;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
 	animation:ly-stxt06_move 15s;
 	animation-delay:3s;
 	-webkit-animation:ly-stxt06_move 15s;
@@ -385,6 +398,7 @@
 	right: 5%;
 	top: 5%;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
 	margin-top:-71px;
 	animation:ly-stxt07_move 15s;
 	animation-delay:3s;
@@ -414,6 +428,7 @@
 	right: 5%;
 	top: 5%;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
 	margin-top:-71px;
 	animation:ly-stxt08_move 15s;
 	animation-delay:3s;
@@ -443,6 +458,7 @@
 	right: 5%;
 	top: 5%;
 	opacity: 0;
+  font-family: 'Roboto', sans-serif;
 	margin-top:-71px;
 	animation:ly-stxt09_move 15s;
 	animation-delay:3s;
@@ -471,7 +487,7 @@
 	position: relative;
 	right: 5%;
 	top: 5%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	margin-top:-71px;
 	animation:ly-stxt10_move 15s;
 	animation-delay:3s;
@@ -540,7 +556,7 @@
 	position: absolute;
 	left:20%;
 	top: 0;
-	opacity: 1;
+	opacity: 1;  font-family: 'Roboto', sans-serif;
 	background-color: #fff;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -566,7 +582,7 @@
 	left: 23%;
 	top: 10%;
 	overflow: hidden;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	-webkit-transform: scale(0.5, 0.5);
 	transform: scale(0.5, 0.5);
 	transition: all 1s;
@@ -630,7 +646,7 @@
 	position: absolute;
 	left: 3%;
 	top: 4%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
 }
 
@@ -649,7 +665,7 @@
 	padding-top: 20px;
 	left: 5%;
 	top: 12%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 1s;
 }
 
@@ -732,7 +748,7 @@
 	margin-left:30px;
 	margin-right:30px;
 	top: 12%;
-	opacity: 1;
+	opacity: 1;  font-family: 'Roboto', sans-serif;
 	transition: all 13s;
 	height:0;
 	width:88%;
@@ -780,7 +796,7 @@
 	left: 23%;
 	top:10%;
 	overflow: hidden;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	-webkit-transform: scale(0.5, 0.5);
 	transform: scale(0.5, 0.5);
 	transition: all 1s;
@@ -844,7 +860,7 @@
 	position: absolute;
 	left: 3%;
 	top: 2%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
 }
 
@@ -862,7 +878,7 @@
 	position: absolute;
 	left: 5%;
 	top: 8%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 1s;
 }
 
@@ -883,7 +899,7 @@
 	left: 42%;
 	top:22%;
 	overflow: hidden;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	-webkit-transform: scale(0.5, 0.5);
 	transform: scale(0.5, 0.5);
 	transition: all 1s;
@@ -927,7 +943,7 @@
 	position: absolute;
 	left: 3%;
 	top: 2%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
 }
 
@@ -945,7 +961,7 @@
 	width:80%;
 	top:11%;
 	margin-left:5%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
 	width:88%;
 	overflow:hidden;
@@ -988,7 +1004,7 @@
 	left: 61%;
 	bottom:6%;
 	overflow: hidden;
-	opacity: 0.9;
+	opacity: 0.9;  font-family: 'Roboto', sans-serif;
 	transition: all 10s;
 }
 .active .ly-box23{
@@ -1028,7 +1044,7 @@
 	position: absolute;
 	left: 3%;
 	top: 2%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
 }
 
@@ -1046,7 +1062,7 @@
 	width:80%;
 	top:11%;
 	margin-left:5%;
-	opacity: 0;
+	opacity: 0;  font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
 	width:88%;
 	overflow:hidden;
@@ -2086,4 +2102,10 @@
 }
 .xx94 {
 	height:80%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+p{
+  font-family: 'Roboto', sans-serif;
 }
